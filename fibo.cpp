@@ -10,7 +10,7 @@ int main(){
 		num1=num2;
 		num2=num3;
 	}
-	printf("%d",num3);
+	printf("El termino %d de la sucesion de Fibonacci es: %d",x,num3);
 	
 	system("pause");
 	return 0;
