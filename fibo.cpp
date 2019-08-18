@@ -8,10 +8,10 @@ int main()
 	
 	for(i=0;i=x;i++)
         {
-		num3=num1+num2;
-		num1=num2;
-		num2=num3;
-	}
+		      num3=num1+num2;
+		      num1=num2;
+		      num2=num3;
+	      }
 	printf("El termino %d de la sucesion de Fibonacci es: %d",x,num1);
 	
 	system("pause");
